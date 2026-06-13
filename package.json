@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-azure-blueprint-assignmentoperation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Azure Blueprints Client manages blueprint definitions, assignments, artifacts, and operations.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-azure-blueprint-assignmentoperation",
